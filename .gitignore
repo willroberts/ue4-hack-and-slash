@@ -1,0 +1,21 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Ignore third-party Content (reduces repo size from 8.5GB to 0.5GB)
+Content/ParagonMinions
+Content/ParagonMuriel
+Content/ParagonRevenant
+Content/SoulCave
+Content/StarterContent
