@@ -1,1 +1,2 @@
-Content/HackAndSlash/Levels/LV_Soul_Cave_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+# Currently ignored
+#Content/HackAndSlash/Levels/LV_Soul_Cave_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

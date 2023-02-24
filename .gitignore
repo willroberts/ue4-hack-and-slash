@@ -13,9 +13,12 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-# Ignore third-party Content (reduces repo size from 8.5GB to 0.5GB)
+# Ignore third-party Content
 Content/ParagonMinions
 Content/ParagonMuriel
 Content/ParagonRevenant
 Content/SoulCave
 Content/StarterContent
+
+# Ignore Git LFS Content
+Content/HackAndSlash/Levels/LV_Soul_Cave_BuiltData.uasset
