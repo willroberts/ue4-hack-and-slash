@@ -20,5 +20,5 @@ Content/ParagonRevenant
 Content/SoulCave
 Content/StarterContent
 
-# Ignore Git LFS Content
+# Temporarily ignored until Git LFS is re-enabled.
 Content/HackAndSlash/Levels/LV_Soul_Cave_BuiltData.uasset

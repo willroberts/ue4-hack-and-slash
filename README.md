@@ -21,7 +21,4 @@ project. They are present in `.gitignore` to reduce the overall repo size from
 While the game's map is only 9MB, the built lighting data is 310MB. This is well
 above Github's 100MB limit on files, so Git LFS is necessary for the upload.
 
-The BuiltData is present in the `.gitattributes` file.
-
-In order to avoid Git LFS for now, this file is not committed to Git. Instead,
-the lighting data can be rebuilt after opening the project in UE4.
+Git LFS is currently disabled, so the file is temporarily ignored.
