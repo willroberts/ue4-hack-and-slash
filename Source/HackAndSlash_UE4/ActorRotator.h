@@ -13,5 +13,8 @@ UCLASS()
 class HACKANDSLASH_UE4_API UActorRotator : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
-	
+
+public:
+	UFUNCTION(BlueprintCallable)
+	FRotator InterpolatePlayerRotation(float fInterpSpeed);
 };
